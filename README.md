@@ -13,3 +13,6 @@ npm run dev
 ```
 "ignore": ["src/public/*"]
 ```
+
+## 수강 이력
+* 240620 - 1.1 ~ 1.4
